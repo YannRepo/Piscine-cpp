@@ -13,4 +13,4 @@ La liste des modules et les notions associées sont les suivantes : <br/>
 **c08** - Containers, les itérateurs et algorithms <br/>
 
 ## 2 - Lancement du programme
-Chaque exercice possède son propre Makefile. Pour lancer la compilation lancer la commande ```make -j``` et lancer l'exécutable généré (le nom diffère en fonction de l'exercice).
+Chaque exercice possède son propre Makefile. Pour lancer la compilation lancer la commande ```make``` et lancer l'exécutable généré (le nom diffère en fonction de l'exercice).
