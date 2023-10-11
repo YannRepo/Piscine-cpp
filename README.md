@@ -1,7 +1,7 @@
 # Piscine cpp
 ## 1 - Objectif du projet
 La piscine C++ fait partie des projets de l'école 42 dont l'objectif est d'apprendre différentes notions de C++ à travers 9 modules. Chaque module contient plusieurs exercices couvrant une ou deux notions clés.
-La liste des modules et les notions associées sont les suivantes : <br>
+La liste des modules et les notions associées sont les suivantes : <br/>
 c00 - Manipulation de strings et création de class
 c01 - Allocation mémoire : pointeur et référence
 c02 - Classe à la forme canonique de Coplien, polymorphisme et surcharge d'opérateur
